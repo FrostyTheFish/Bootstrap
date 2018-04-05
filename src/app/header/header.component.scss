@@ -1,0 +1,24 @@
+.bg {
+    /* The image used */
+    background-image: url('../../assets/images/background.png');
+
+    /* Full height */
+    min-height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    background-color: rgba(0,0,0,.3);
+}
+
+.test {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    letter-spacing: 4px;
+}
